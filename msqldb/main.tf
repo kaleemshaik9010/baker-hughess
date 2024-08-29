@@ -1,8 +1,8 @@
 
 resource "azapi_resource" "symbolicname" {
   type = "Microsoft.Sql/servers/databases@2023-05-01-preview"
-  name = "string"
-  location = "string"
+  name = "klaeem"
+  location = "khammam"
   parent_id = "string"
   tags = {
     tagName1 = "tagValue1"
