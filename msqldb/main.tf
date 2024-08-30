@@ -2,7 +2,7 @@
 resource "azapi_resource" "symbolicname" {
   type = "Microsoft.Sql/servers/databases@2023-05-01-preview"
   name = "klaeem"
-  location = "bheemavaram"
+  location = "bheemavaramm"
   parent_id = "string"
   tags = {
     tagName1 = "tagValue1"
